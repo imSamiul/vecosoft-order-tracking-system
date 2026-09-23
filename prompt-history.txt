@@ -1,0 +1,53 @@
+================================================================================
+CONVERSATION PROMPT HISTORY
+Project: vecosoft-order-tracking-system
+Session ID: 2a5c605c-972b-45f4-ac36-1cc940414f84
+Generated: 2026-09-23 23:02:45
+================================================================================
+
+[Prompt 1]
+Timestamp: 2026-09-23 21:04:39 +06:00
+Content:
+can you read the skills files in my project?
+
+--------------------------------------------------------------------------------
+
+[Prompt 2]
+Timestamp: 2026-09-23 21:07:35 +06:00
+Content:
+my project has installed tailwind css. but i cant see any desing in the view. fix the tailwind css then follow the tailwind skill pattern.
+
+--------------------------------------------------------------------------------
+
+[Prompt 3]
+Timestamp: 2026-09-23 21:10:34 +06:00
+Content:
+why tailwind css was not working?
+
+--------------------------------------------------------------------------------
+
+[Prompt 4]
+Timestamp: 2026-09-23 21:22:46 +06:00
+Content:
+does my project structre, file folder structure, component structure, code structre, code pattern, desing pattern, file folder naming convention follow the skills file? if not then make it structured like the instructions in the skills files.
+
+--------------------------------------------------------------------------------
+
+[Prompt 5]
+Timestamp: 2026-09-23 21:25:00 +06:00
+Content:
+yes procedd.
+
+[Note / User Input]:
+Timestamp: 2026-09-23 21:35:14 +06:00
+Content:
+no need
+
+--------------------------------------------------------------------------------
+
+[Prompt 6]
+Timestamp: 2026-09-23 23:02:38 +06:00
+Content:
+give me my prompt history in .txt files.
+
+================================================================================
